@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-16"?>
+<FormModel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Items>
+        <FormModelItem>
+            <ElementType>LTools.UserInteractions.View.FormBuilder.Elements.WindowElement</ElementType>
+            <Properties>
+                <ElementPropertyValue>
+                    <IsListValue>false</IsListValue>
+                    <Name>ETitle</Name>
+                </ElementPropertyValue>
+                <ElementPropertyValue>
+                    <IsListValue>false</IsListValue>
+                    <Name>HeightDiff</Name>
+                    <Value xsi:type="xsd:double">25</Value>
+                </ElementPropertyValue>
+                <ElementPropertyValue>
+                    <IsListValue>false</IsListValue>
+                    <Name>EName</Name>
+                </ElementPropertyValue>
+                <ElementPropertyValue>
+                    <IsListValue>false</IsListValue>
+                    <Name>EWidth</Name>
+                    <Value xsi:type="xsd:double">400</Value>
+                </ElementPropertyValue>
+                <ElementPropertyValue>
+                    <IsListValue>false</IsListValue>
+                    <Name>EHeight</Name>
+                    <Value xsi:type="xsd:double">200</Value>
+                </ElementPropertyValue>
+                <ElementPropertyValue>
+                    <IsListValue>false</IsListValue>
+                    <Name>EPosition</Name>
+                    <Value xsi:type="Point">
+                        <X>0</X>
+                        <Y>0</Y>
+                    </Value>
+                </ElementPropertyValue>
+            </Properties>
+        </FormModelItem>
+        <FormModelItem>
+            <ElementType>LTools.UserInteractions.View.FormBuilder.Elements.ImageElement</ElementType>
+            <Properties>
+                <ElementPropertyValue>
+                    <IsListValue>false</IsListValue>
+                    <Name>Text</Name>
+                </ElementPropertyValue>
+                <ElementPropertyValue>
+                    <IsListValue>false</IsListValue>
+                    <Name>EName</Name>
+                    <Value xsi:type="xsd:string">ImageElement</Value>
+                </ElementPropertyValue>
+                <ElementPropertyValue>
+                    <IsListValue>false</IsListValue>
+                    <Name>EWidth</Name>
+                    <Value xsi:type="xsd:double">240</Value>
+                </ElementPropertyValue>
+                <ElementPropertyValue>
+                    <IsListValue>false</IsListValue>
+                    <Name>EHeight</Name>
+                    <Value xsi:type="xsd:double">60</Value>
+                </ElementPropertyValue>
+                <ElementPropertyValue>
+                    <IsListValue>false</IsListValue>
+                    <Name>EPosition</Name>
+                    <Value xsi:type="Point">
+                        <X>31</X>
+                        <Y>70</Y>
+                    </Value>
+                </ElementPropertyValue>
+            </Properties>
+        </FormModelItem>
+        <FormModelItem>
+            <ElementType>LTools.UserInteractions.View.FormBuilder.Elements.LabelElement</ElementType>
+            <Properties>
+                <ElementPropertyValue>
+                    <IsListValue>false</IsListValue>
+                    <Name>Text</Name>
+                    <Value xsi:type="xsd:string">Картинка переданная в форму</Value>
+                </ElementPropertyValue>
+                <ElementPropertyValue>
+                    <IsListValue>false</IsListValue>
+                    <Name>EName</Name>
+                    <Value xsi:type="xsd:string">LabelElement</Value>
+                </ElementPropertyValue>
+                <ElementPropertyValue>
+                    <IsListValue>false</IsListValue>
+                    <Name>EWidth</Name>
+                    <Value xsi:type="xsd:double">190</Value>
+                </ElementPropertyValue>
+                <ElementPropertyValue>
+                    <IsListValue>false</IsListValue>
+                    <Name>EHeight</Name>
+                    <Value xsi:type="xsd:double">25</Value>
+                </ElementPropertyValue>
+                <ElementPropertyValue>
+                    <IsListValue>false</IsListValue>
+                    <Name>EPosition</Name>
+                    <Value xsi:type="Point">
+                        <X>31</X>
+                        <Y>31.5</Y>
+                    </Value>
+                </ElementPropertyValue>
+            </Properties>
+        </FormModelItem>
+    </Items>
+</FormModel>
